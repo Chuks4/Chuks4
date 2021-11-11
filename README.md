@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in HTML, CSS and JavScript.
 
-- 🌱 I’m currently learning HTML and CSS3
+- 🌱 I’m currently learning HTML5 and CSS3
 
 - 💞️ I’m looking to collaborate on Frontend Projects
 
