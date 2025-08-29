@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Agha Chukwuemeka Victor
 
-- 👀 I’m interested in HTML, CSS, JavScript, React and Python.
+- 👀 I’m interested in HTML, CSS, JavScript, React.js, Express.js and Python.
 
 - 💞️ I’m looking to collaborate on both Frontend and Backend Projects
 
